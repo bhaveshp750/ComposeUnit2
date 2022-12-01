@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">ComposeUnit2</string>
     <string name="roll">Roll</string>
+    <string name="roll_animation">Roll Animation</string>
 
     <string name="lemon">Lemon Fun</string>
     <string name="lemon_select">Tap the lemon tree to select a lemon</string>
@@ -8,4 +9,5 @@
     <string name="lemon_drink">Tap the lemonade to drink it</string>
     <string name="lemon_restart">Tap the empty glass to start again</string>
     <string name="title_activity_lemon_app">LemonApp</string>
+    <string name="title_activity_roll_animation">RollAnimationActivity</string>
 </resources>
